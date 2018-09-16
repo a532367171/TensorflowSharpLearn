@@ -6,7 +6,7 @@ namespace MNISTTensorFlowSharp
     public class Helper
     {
         /// <summary>
-        /// 如果文件不存在就去下载 测试下载
+        /// 如果文件不存在就去下载 测试下载 测试2
         /// </summary>
         /// <param name="urlBase">下载地址</param>
         /// <param name="trainDir">文件目录地址</param>
