@@ -10,3 +10,6 @@ TensorflowSharp的源码地址：https://github.com/migueldeicaza/TensorFlowShar
 http://ci.tensorflow.org/view/Nightly/job/nightly-libtensorflow-windows/lastSuccessfulBuild/artifact/lib_package/libtensorflow-cpu-windows-x86_64.zip
 
 下载这个压缩包。然后，在下载的压缩包中的\lib中找到tensorflow.dll，将它改名为libtensorflow.dll，并在你的工程中引用它。
+
+测试 网上就行修改 本地看下咋操作
+
